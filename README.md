@@ -26,4 +26,4 @@
 
 ## 测试
 单元测试 ：应对每个service的功能及相关状态流转做单元测试，因事件原因，仅做了接口的模拟测试。
-性能测试： 另外用jemeter也做了一些测试，具体见jemeter文件
+性能测试： 另外用jemeter也做了一些测试，具体见jemeter文件demo-jemeter-test.jmx
